@@ -1,0 +1,10 @@
+D:\Projects\c#\MaterialCreator\MaterialCreator\bin\Debug\MaterialCreator.exe.config
+D:\Projects\c#\MaterialCreator\MaterialCreator\bin\Debug\MaterialCreator.exe
+D:\Projects\c#\MaterialCreator\MaterialCreator\bin\Debug\MaterialCreator.pdb
+D:\Projects\c#\MaterialCreator\MaterialCreator\obj\Debug\MaterialCreator.csproj.AssemblyReference.cache
+D:\Projects\c#\MaterialCreator\MaterialCreator\obj\Debug\MaterialCreator.Form1.resources
+D:\Projects\c#\MaterialCreator\MaterialCreator\obj\Debug\MaterialCreator.Properties.Resources.resources
+D:\Projects\c#\MaterialCreator\MaterialCreator\obj\Debug\MaterialCreator.csproj.GenerateResource.cache
+D:\Projects\c#\MaterialCreator\MaterialCreator\obj\Debug\MaterialCreator.csproj.CoreCompileInputs.cache
+D:\Projects\c#\MaterialCreator\MaterialCreator\obj\Debug\MaterialCreator.exe
+D:\Projects\c#\MaterialCreator\MaterialCreator\obj\Debug\MaterialCreator.pdb
